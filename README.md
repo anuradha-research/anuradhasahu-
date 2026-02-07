@@ -6,14 +6,13 @@ I’m a researcher in **Scientific Machine Learning, Numerical Analysis, and Qua
 My work combines **mathematics, statistics, and machine learning** to build robust, adaptive, and data-driven algorithms that extract meaningful insights from complex systems. I enjoy bridging classical numerical methods with modern AI to create efficient and intelligent computational solvers.
 
 ---
-
 ## 🔬 Research Interests
-- High-order numerical methods (WENO/HWENO, hybrid schemes)
-- Scientific Machine Learning & data-driven PDE solvers
-- Kernel Density Estimation (KDE)–based adaptive modeling
-- Transformer-based financial time series forecasting
-- Statistical inference and quantitative data analysis
-- Computational mathematics for complex dynamical systems
+- Numerical methods for nonlinear PDEs and conservation laws
+- Machine learning–enhanced scientific computing
+- Hybrid data-driven algorithms and adaptive modeling
+- Financial time series prediction and quantitative forecasting
+- Statistical learning for complex systems
+
 
 ---
 
